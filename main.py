@@ -66,6 +66,8 @@ def sort(f,p):
 
      
 f = sort_from()
+print(f)
 p = sort_to()
+print(p)
 make_dirs(p)
 sort(f,p)
