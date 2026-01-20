@@ -1,0 +1,5 @@
+* use git / github
+* make types dictionary customizable
+* Either get rid of empty type folders when done or dont create folders that arn't used
+* display more acurate messages based on whats going on
+* Impliment PKtinker 
